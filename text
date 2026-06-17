@@ -1,0 +1,6 @@
+├── assets/
+│   └── audio/
+│       ├── btc-buy.mp3    <-- SOM AGUDO PARA COMPRA
+│       ├── btc-sell.mp3   <-- SOM GRAVE PARA VENDA
+│       ├── click.mp3      <-- SOM DE TROCA DE ATIVOS / MENU
+│       └── panic.mp3      <-- SOM DE ALERTA DO CIRCUIT BREAKER
